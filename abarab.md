@@ -1,4 +1,6 @@
-hello!
+# First file for education in GIT
+
+## git gihello!
 
 *Курсив.*
 
